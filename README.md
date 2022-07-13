@@ -1,3 +1,5 @@
+<p><img src="Blue White Geometric Business Blog Banner.png" width="100%"></p>
+
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
